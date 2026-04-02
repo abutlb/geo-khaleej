@@ -90,4 +90,4 @@ Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/YOUR_LINK
 
 ## 📝 License & Credits
 - Data is sourced from [OpenStreetMap](https://www.openstreetmap.org/) and is licensed under the [Open Data Commons Open Database License (ODbL)](https://opendatacommons.org/licenses/odbl/).
-- Processed and structured by [Your Name/Username]. If you use this database in your project, a star ⭐️ to this repository is highly appreciated!
+- Processed and structured by [Abdullah Altwijri]. If you use this database in your project, a star ⭐️ to this repository is highly appreciated!
