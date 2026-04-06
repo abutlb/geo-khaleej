@@ -84,7 +84,7 @@ print(hospitals.head())
 
 ## 📧 Custom Data Requests | طلبات البيانات الخاصة
 Do you need a specific dataset? (e.g., "Only Pharmacies in Riyadh" or "Merge all GCC Roads into one file"). 
-Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/YOUR_LINKEDIN_PROFILE) for custom data extraction pipelines!
+Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/abdullah-altwijri-b053b1234/) for custom data extraction pipelines!
 
 ---
 
