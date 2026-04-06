@@ -6,7 +6,8 @@
 *.osm
 *.osm.pbf
 gcc-states-latest.osm.pbf
-
+LATEST_CHANGELOG.md
+extraction_stats.json
 # ==========================================
 # 🕵️‍♂️ Secret Scripts (KEEP IT PRIVATE)
 # ==========================================
